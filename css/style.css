@@ -42,3 +42,8 @@ a {
     font-size: 24px;
     font-family: "COPPERPLATE", Verdana, "Geneva", Tahoma, sans-serif;
 }
+
+img {
+    width: 500px;
+    height: auto;
+}
