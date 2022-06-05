@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    font-family: "Dosis", "Comic Neue" , sans-serif, "Times New Roman";
+    font-family: "Papyrus", "Comic Neue" , sans-serif, "Times New Roman";
     font-size: 40px;
     
 }
@@ -32,4 +32,13 @@ ol {
 li {
     color: #410d0d;
     font-weight: ;
+}
+
+div {
+    font-family: "COPPERPLATE", Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+a {
+    font-size: 24px;
+    font-family: "COPPERPLATE", Verdana, "Geneva", Tahoma, sans-serif;
 }
