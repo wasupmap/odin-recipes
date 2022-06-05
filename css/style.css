@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    font-family: "Dosis", "Comic Neue" , sans-serif, "Times New Roman";
+    font-size: 40px;
+    
+}
+
+body {
+    background-color: bisque;
+}
+
+#chef-map {
+    width: 500px;
+    height: 500px;
+}
+
+.align-center {
+    display: grid;
+    place-items: center;
+}
+
+ul {
+    list-style-type: circle;
+    list-style-position: inside;
+   
+}
+
+ol {
+    list-style-position: inherit;
+}
+
+li {
+    color: #410d0d;
+    font-weight: ;
+}
